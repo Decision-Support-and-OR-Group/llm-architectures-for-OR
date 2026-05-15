@@ -1,0 +1,22 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kaleta"
+  given-names: "Mariusz"
+  orcid: "https://orcid.org/0000-0002-2225-8956"
+- family-names: "Zan"
+  given-names: "Rafał"
+  orcid: "https://orcid.org/0009-0001-2574-0887"
+- family-names: "Borowa"
+  given-names: "Klara"
+  orcid: "https://orcid.org/0000-0002-7160-5950"
+- family-names: "Klimaszewski"
+  given-names: "Adrian"  
+- family-names: "Kawecki"
+  given-names: "Michał"
+  orcid: "https://orcid.org/0000-0002-2225-8956"  
+title: "LLM-Based Multi-Agent Architectures for Operations Research - source code, datasets, and statistics"
+version: v1.0.0
+date-released: 2026-05-15
+doi: 10.5281/zenodo.20214534
+url: "https://github.com/Decision-Support-and-OR-Group/llm-architectures-for-OR"
