@@ -1,0 +1,8 @@
+pandas
+langchain-openai
+langchain-community
+langgraph
+docker
+datasets
+numba
+openpyxl

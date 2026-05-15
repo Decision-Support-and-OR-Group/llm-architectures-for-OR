@@ -1,0 +1,9 @@
+FROM python:3.11-slim
+
+# Install system deps if needed (e.g. for scipy etc.)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python libraries your agents may use
+RUN pip install --no-cache-dir pulp numpy scipy ortools
